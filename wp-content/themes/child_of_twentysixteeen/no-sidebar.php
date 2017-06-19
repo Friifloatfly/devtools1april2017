@@ -1,6 +1,8 @@
 <?php
 /**
- * The template for displaying pages
+ * Template Name: no-sidebar.php
+ * 
+ * This template displays all pages without a sidebar
  *
  * This is the template that displays all pages by default.
  * Please note that this is the WordPress construct of pages and that
@@ -37,5 +39,5 @@ get_header(); ?>
 
 </div><!-- .content-area -->
 
-<?php get_sidebar(); ?>
+<?php //get_sidebar(); ?>
 <?php get_footer(); ?>
