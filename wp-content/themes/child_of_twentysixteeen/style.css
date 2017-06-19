@@ -1,0 +1,14 @@
+/*
+Theme name: Jessies theme
+Description:Child theme based on twentysixteen
+Author: [company name]
+Verison: 1.0
+Template:twentysixteen
+*/
+
+@import url('../twentysixteen/style.css');
+
+body{
+	background-color: pink;
+}
+
